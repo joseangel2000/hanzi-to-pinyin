@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "google-translate-api-x": "^10.7.3",
     "pinyin-pro": "^3.28.1"
   },
   "bin": {
